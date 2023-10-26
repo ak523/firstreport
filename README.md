@@ -11,4 +11,4 @@ To deploy this project run
   run index.html
 ```
 or you can visit this link:
-https://public.tableau.com/app/profile/aryan.kadiya/viz/Firstreport_16983087825130/Dashboard1?publish=yes
+https://ak523.github.io/firstreport/
